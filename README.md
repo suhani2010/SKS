@@ -6,9 +6,13 @@ This project consist of 2 modules:
 
 ## Functionalities:
 • User can register and login into the website.
+
 • User can set their profile and update profile details.
+
 • All the registrations and login forms are validated using jquery.
+
 • The entire site will change according to the role, depending on whether the client is User or Admin.
+
 • User can logout after completing.
 
 • CRUD Operations like
