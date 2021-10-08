@@ -24,9 +24,13 @@ This project consist of 2 modules:
 6) Admin can delete the product from the list.
 
 • User can filter product on the basis of Categories.
+
 • After adding products the cart the User can checkout.
+
 • Receipt is generated after checkout which contains pricing details.
+
 • Fill Shipping and Billing Address and contact details.
+
 • If the user Place Order, it will go to thank you page with the timing of delivery Report.
 
 ## Tools and Technologies:
