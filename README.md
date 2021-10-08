@@ -10,6 +10,7 @@ This project consist of 2 modules:
 • All the registrations and login forms are validated using jquery.
 • The entire site will change according to the role, depending on whether the client is User or Admin.
 • User can logout after completing.
+
 • CRUD Operations like
 1) User can add the desired items to their cart .
 2) Admin can add product to the category.
@@ -17,6 +18,7 @@ This project consist of 2 modules:
 4) Admin can edit the product details.
 5) Admin can delete the category from the list
 6) Admin can delete the product from the list.
+
 • User can filter product on the basis of Categories.
 • After adding products the cart the User can checkout.
 • Receipt is generated after checkout which contains pricing details.
