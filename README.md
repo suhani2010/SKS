@@ -15,6 +15,8 @@ This project consist of 2 modules:
 
 • User can logout after completing.
 
+• All the responses are shown using AJAX.
+
 • CRUD Operations like
 1) User can add the desired items to their cart .
 2) Admin can add product to the category.
@@ -34,6 +36,8 @@ This project consist of 2 modules:
 • If the user Place Order, it will go to thank you page with the timing of delivery Report.
 
 ## Tools and Technologies:
-Technology :  JAVA, JSP & SERVLETS, JDBC, Javascript, JQUERY, HTML, CSS, BOOTSTRAP, AJAX.
-Application Server: Apache Tomcat Server.
-Database : MySQL.
+• Technology :  JAVA, JSP & SERVLETS, JDBC, Javascript, JQUERY, HTML, CSS, BOOTSTRAP, AJAX.
+
+• Application Server: Apache Tomcat Server.
+
+• Database : MySQL.
