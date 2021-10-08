@@ -1,6 +1,7 @@
 # SKS, E-Commerce Online Shopping Portal
 This is an E-Commerce website build for selling of any products online using Java.
 This project consist of 2 modules:
+
 • User Module • Admin Module
 
 
